@@ -18,7 +18,7 @@ This is a landing page project created using HTML and CSS. It serves as an intro
 
 1. Clone the repository to your local machine:
 ```
-git clone https://github.com/your-username/personal-portfolio.git
+git clone https://github.com/davishkar/CODSOFT-TASK-2.git
 ```
 
 2. Open the `index.html` file in your web browser to view the landing page.
