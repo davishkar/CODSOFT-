@@ -1,7 +1,7 @@
-# CODSOFT- [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=livechat)](https://www.example.com)
+# CODSOFT-TASK 2 
 
-LEVEL 1 TASK 2
-# Landing Page Project
+LEVEL 1 
+# Landing Page Project [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=livechat)](https://www.example.com)
 
 This is a landing page project created using HTML and CSS. It serves as an introduction to web development, focusing on basic HTML and CSS concepts such as columns, sections, headers, footers, alignments, padding, and color palettes.
 
